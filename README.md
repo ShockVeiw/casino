@@ -23,7 +23,6 @@ Before you begin, ensure you have the following installed:
 
    ```bash
     npm run dev
-    npm run build & npm run start #to run in production mode
    ```
    ###### 5.2 Production Mode
 
